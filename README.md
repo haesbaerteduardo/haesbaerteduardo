@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Eduardo, I work as as Senior Software Engineer at @LeanIX.
+
 <!--
 **haesbaerteduardo/haesbaerteduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
