@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Eduardo, part of the Engineering team at [LeanIX](https://github.com/leanix).
+I am Eduardo, part of the Engineering team at [SAP](http://github.com/sap) [LeanIX](https://github.com/leanix).
 
 <!--
 **haesbaerteduardo/haesbaerteduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
